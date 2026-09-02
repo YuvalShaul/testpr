@@ -1,3 +1,4 @@
 # .github/reviewer.yml
 rounds: 2
+merge: squash
 
